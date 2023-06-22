@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "909121361017",
+    "project_id": "easygames-coinflip",
+    "storage_bucket": "easygames-coinflip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909121361017:ios:0b128db61c65608f1570a8",
+        "android_client_info": {
+          "package_name": "com.EasyGames.CoinFlip"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyD37vQ2Z-hg0Hsd_quaKGe45trprD_FXWw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909121361017-h8ie6u76duu623l3p2hhjug88uvjastq.apps.googleusercontent.com"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "easygames-coinflip",
+  "private_key_id": "534b041e6b355bc24264eb7b1b60d71f1728da11",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDL9mo/vcwfGUZn\nF5uF5Yqh4GA3GNIFUJi5d72YzppS2tIPlMk7Hq39zp93zPfs03DHbLQEKrmN7ZPX\nGLmeVQ00rEfDCSHTNeOmDqSA0eD4RrshsZwLIngt2I9oJ6coZ7X6b2YqXfuPazJf\ndlajeqxQGrcthlf6JTTWYOS5FcxGx6hklOrF5/uKGjmYRFQPUfw6c76viOK2+7Vr\n5fXV6AxKDXJ/qnGUxxbxKENai5t2rhOhWxOUQyWTy0rb9HiYGiJgwxcwBUKCq4Km\nfCjRbqaRYNhSSYgNTLAr5KIil4Om6R0a4YEGYprk40LVVtaNublbrNEyExT8oSfo\n3URVK2rXAgMBAAECggEAAWo4tJ010DpGBEIR4cYgPLiIZulyhmVXqwf/sYBTs1C7\nJ+XNH9w5+3zWZIMnJN0W7fxhkL9DamokJ1gPo01WdZ1xNADQJMIrcjGtYcH3jDXz\nHj5c97DOmMSJniVI2O+yGyGVIu32aEuncAUZNuj5KlTPZlyFcLi7yJpewq/w9A68\nWZIOj3snx3qRu9vusZwGj6eJNibozyClEwd0mv6FViVkCkUHcwAsa6YyTZCvvx2f\na+3y2YZkMhglQkUy0MpSns2PhG6xsHBjhxuFlRZaJ1cA1LZmdfNZ+XrLACj1NXqD\nwHtN918zwjcly709CCjSzaXO4v7KgmC1teUMHdkQsQKBgQDwc3ZchUrrdGDYjAX/\nUrByKWhILN3zu63DymlF3OHEXgBDCh/xlU6EMvGiF6J4FdC/VkThj7Zy7O3eBl7b\nT+Il6c5bhy5dYem5OwpU7NimMS3IM/ThZDgoTVBpnDd+bXVReUJugquTMbNAX9vb\nMrZrl5bROS0Wy9Mqk0GMgSwTsQKBgQDZJufc+1BMGRE4bP/hPeUiKFFR7NIMmlww\nUPMuFzLmVb4CFMXm/AX9oHcW1nvOQ39GJY3aeUsD3Su8UOw9cbpt+ZvyuX37DaYY\nDUMGgjRfY0naGi2zdDdc+CtMTKSCJKdEkyaP+1raVoiHAdQoYQG3R3ZEYF1c+XWT\nniP6FtIxBwKBgHuPCZp/kEEv+3grdAWA61SuvHyiOae+oItE3xXcbFNo7n+Em2ec\nDs3WE970gDNvGmbIIPs7y0iBQbZe1a2i/hX3cGgOLiAkaWMa2LNNRgMYsGr5b/PG\neSkUmaa7dLTN8IReaGm7UgmAd5kz6RlZlO3y5rg6xlW5hZiSNRPLaOfxAoGBAKNr\n5SjoNTjf0JbfaP5xH0TChNib2kRD0sdF1I1GRjcUJgfY7Er2Nef24Ejep5PGNj1r\nO8NEbxD8XNK/L9raAQyMwjE8KbRLRElriZqXWKTEyyqJcwVPm+6qkaM9Nrz+qqcv\n+uB2sJwKbXr1BF5TCwCMllPFFd5HmpW6eKbYj9z3AoGBAIetk6nACcv8QzgvhBuZ\nWcdoup0EXT9lKQzcHReW0g4uw5GZ16/dc9pCtX2P7iQoIuE3jP/+4AKRbO/VQFmI\noXNEffEt3Ia2h/CBxkZp+BMukBfqPMGY+/QfY82rbg9LE9QbiZx6+lJmuJhlEE5R\n4l6d40JT2EYrhZeX+OgXUBr2\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-5mjjn@easygames-coinflip.iam.gserviceaccount.com",
+  "client_id": "113810277691790343716",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-5mjjn%40easygames-coinflip.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
